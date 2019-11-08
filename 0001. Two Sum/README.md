@@ -22,4 +22,5 @@ https://euro.qrunch.io/entries/IMtqWEs4GTw6XJCf
 https://leetcode.com/problems/two-sum/discuss?orderBy=most_votes
 
 ## 教訓
-ハッシュ
+ハッシュ探索の計算量はO(1)。理由↓も納得  
+https://www.kunihikokaneko.com/cc/program/hash.pdf
